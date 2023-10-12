@@ -1,5 +1,5 @@
 ### Hi there 👋 
-Check out my [Portfolio](https://sinlessrook.github.io/SinlessRook/)
+Check out my [Portfolio](https://sinlessrook.github.io/My-Portfolio/)
 <!--
 **SinlessRook/SinlessRook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
