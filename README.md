@@ -1,5 +1,5 @@
-### Hi there 👋 
-Check out my [Portfolio](https://portfolio-nu-beige-64.vercel.app/)
+### Hi there this is a basic portfolio made for a competition using html,css👋 
+Check out the [Portfolio](https://portfolio-nu-beige-64.vercel.app/)
 <!--
 **SinlessRook/SinlessRook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
